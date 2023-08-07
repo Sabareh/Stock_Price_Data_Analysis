@@ -7,7 +7,8 @@ This repository contains the code and analysis for my data analysis project on s
 
 The project is organized as follows:
 
-- `notebook.ipynb`: Jupyter Notebook containing the entire data analysis process, including data loading, data wrangling, exploratory data analysis (EDA), visualization, and stock prices correlation.
+- `Stock_price_analysis.ipynb`: Jupyter Notebook containing the entire data analysis process, including data loading, data wrangling, exploratory data analysis (EDA), visualization, and stock price correlation.
+- `report.pdf`: PDF file containing the report for the project for the IT and Computing department at Jomo Kenyatta University of Agriculture and Technology.
 
 ## Requirements
 
@@ -15,7 +16,7 @@ To run the Jupyter Notebook and reproduce the analysis, you'll need the followin
 
 - Python 3.x
 - Jupyter Notebook
-- Required Python libraries (pandas, numpy, matplotlib, seaborn, scikit-learn, etc.)
+- Required Python libraries (pandas, numpy, matplotlib, seaborn, glob, etc.)
 
 You can install the required libraries using the following command:
 
