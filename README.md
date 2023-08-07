@@ -9,6 +9,7 @@ The project is organized as follows:
 
 - `Stock_price_analysis.ipynb`: Jupyter Notebook containing the entire data analysis process, including data loading, data wrangling, exploratory data analysis (EDA), visualization, and stock price correlation.
 - `report.pdf`: PDF file containing the report for the project for the IT and Computing department at Jomo Kenyatta University of Agriculture and Technology.
+- `data`: Directory containing the stock price data used in the project.
 
 ## Requirements
 
